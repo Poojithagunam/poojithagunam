@@ -18,7 +18,6 @@
 - Tools: Xilinx Vivado, Git, GitHub, Arduino IDE
 - Interests: Digital Electronics, RTL Design, Embedded Systems
 
-### 📫 Connect With Me
 
 ### 📫 Connect With Me
 
